@@ -2,6 +2,8 @@
 
 An example project to illustrate the main features of Eleventy
 
+## Tutorial
+
 If you want to have a guided tutorial through the code here check out: 
 
 [![Getting started with Eleventy in 11 minutes](https://res.cloudinary.com/practicaldev/image/fetch/s--0Y5ZbgTZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4cvimfhyrpd7mfipxtz6.png)](https://dev.to/loige/getting-started-with-eleventy-in-11-minutes-496j)
