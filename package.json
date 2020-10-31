@@ -15,7 +15,7 @@
     "eslint-plugin-standard": "^4.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --watch --serve"
   },
   "repository": {
     "type": "git",
