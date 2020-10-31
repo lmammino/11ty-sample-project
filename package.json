@@ -1,0 +1,31 @@
+{
+  "name": "11ty-sample-project",
+  "version": "1.0.0",
+  "description": "An example project to illustrate the main features of Eleventy",
+  "main": ".eleventy.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-cache-assets": "^2.0.3",
+    "eslint": "^7.12.0",
+    "eslint-config-standard": "^15.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmammino/11ty-sample-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmammino/11ty-sample-project/issues"
+  },
+  "homepage": "https://github.com/lmammino/11ty-sample-project#readme"
+}
